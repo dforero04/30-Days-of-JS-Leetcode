@@ -48,6 +48,7 @@ var createCounter = function (init) {
 };
 
 const counter = createCounter(5)
+
 const ans1 = counter.increment(); // 6
 console.log(ans1);
 const ans2 = counter.reset(); // 5
