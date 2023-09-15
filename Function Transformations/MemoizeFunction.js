@@ -64,6 +64,9 @@ Constraints:
 at most 105 function calls
 at most 105 attempts to access callCount
 input function is sum, fib, or factorial
+
+NOTE: I HAD THE RIGHT IDEA OF USING A MAP OR OBJECT IN ORDER TO SOLVE THIS. ONE OF MY ONLY PROBLEMS WAS
+FIGURING OUT WHAT VALUE TO STORE AT THE KEY. 
 */
 
 /**
